@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+cwhite16@my.waketech.edu
+New github user
+New repository created for an assignment
+Installed GitHub locally. Hit the clone repository button, went through the steps, and added the local repository to my machine
